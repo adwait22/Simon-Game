@@ -1,2 +1,2 @@
 # Simon-game-2019-edition
-Replication of famous Simon Game from nineties with an added twist!
+Replica of the famous nineties Game 'Simon' with an added twist!
