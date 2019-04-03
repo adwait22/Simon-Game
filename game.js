@@ -63,7 +63,7 @@ function newSequence()
 
         i = 0;
         k = 1;
-        level = 0;
+        levelNumber = 0;
 
         checker = 0;
 
